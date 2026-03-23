@@ -24,5 +24,5 @@ Step 3. You will get your file in  the same Directory from where you execute the
 
 **No data limit 🔐**
 
-**Not a single penny required to waste 🔐**
+**Not a single penny required to waste 💸💵💶💷💳💰**
 
