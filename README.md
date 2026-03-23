@@ -9,11 +9,20 @@ Step 2. For sending, start the sending application
 Step 3. You will get your file in  the same Directory from where you execute the Application.
 
 **🔐 100 % Secure 🔐**
+
 **No cache storing 🔐**
+
 **No IP storing 🔐**
+
 **No Location storing 🔐**
+
 **No Logs storing 🔐**
+
 **No ID storing 🔐**
+
 **No identity storing 🔐**
+
 **No data limit 🔐**
+
 **Not a single penny required to waste 🔐**
+
