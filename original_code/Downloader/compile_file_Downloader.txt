@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile --add-data "image.ico;." --icon=image.ico gui_downloaderr.py

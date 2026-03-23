@@ -1,0 +1,1 @@
+ python -m PyInstaller --noconsole --onefile --add-data "icon.ico;." --icon=icon.ico .\senderr_gui.py
