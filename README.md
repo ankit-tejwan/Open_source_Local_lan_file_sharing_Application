@@ -2,7 +2,7 @@
 
 Step 1. To download any file from a file sending server, start the Socket connection listening 
 
-           ** Here you will see your IPv4 that should be in the file sending server UI with the common port number.
+    ** Here you will see your IPv4 that should be in the file sending server UI with the common port number.
            
 Step 2. For sending, start the sending application
         Enter the receiver system IPv4 and port number as shown in the DownloaderUI application.
